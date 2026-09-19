@@ -2,6 +2,10 @@
 
 A Discord-based Capture The Flag game powered by an LLM.
 
+## Author
+
+- Herosmcx
+
 ## Versions
 
 - `bot_r_th.py` — Thai Version
