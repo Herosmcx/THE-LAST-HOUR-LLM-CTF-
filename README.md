@@ -24,8 +24,8 @@ A Discord-based Capture The Flag game powered by an LLM.
 ## Requirements
 
 - Python 3.10+
-- Discord Bot
-- Google Gemini API Key
+- Discord Bot and Token
+- Google Gemini API Key (Can use 6 keys)
 
 Install dependencies:
 
